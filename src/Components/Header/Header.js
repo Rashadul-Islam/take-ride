@@ -19,10 +19,10 @@ const Header = () => {
                             <Link className="link-style" to="/home">Home</Link>
                         </li>
                         <li className="nav-item px-3">
-                            <Link className="link-style" to="#destination">Destination</Link>
+                            <Link className="link-style" to="/destination">Destination</Link>
                         </li>
                         <li className="nav-item px-3">
-                            <Link className="link-style" to="#Blog">Blog</Link>
+                            <Link className="link-style" to="/blog">Blog</Link>
                         </li>
                         <li className="nav-item px-3">
                             <a id="a-tag" href="https://facebook.com/rashadul5">Contact</a>

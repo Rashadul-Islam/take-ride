@@ -10,6 +10,8 @@ import "./App.css";
 import Login from "./Components/Login/Login";
 import PrivateRoute from "./Components/PrivateRoute/PrivateRoute";
 import BookRide from "./Components/BookRide/BookRide";
+import Destination from "./Components/Destination/Destination";
+import Blog from "./Components/Blog/Blog";
 
 
 export const userContext = createContext();
@@ -25,6 +27,12 @@ function App() {
           </Route>
           <Route path="/login">
             <Login></Login>
+          </Route>
+          <Route path="/destination">
+            <Destination></Destination>
+          </Route>
+          <Route path="/blog">
+            <Blog></Blog>
           </Route>
           <PrivateRoute path='/book-ride/:vehicle'>
             <BookRide></BookRide>
