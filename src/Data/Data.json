@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "name":"BIKE",
+        "img":"https://www.nicepng.com/png/detail/253-2530128_motorcycle-clip-art-motorcycle-clip-art-cartoon-motorcycle.png",
+        "person":1,
+        "price":50
+    },
+    {
+        "id":2,
+        "name":"CAR",
+        "img":"https://www.selectautobody.ca/uploads/RwzHnXK5/REDCAr.jpg",
+        "person":4,
+        "price":80
+    },
+    {
+        "id":3,
+        "name":"BUS",
+        "img":"https://www.pngkit.com/png/detail/253-2535459_travels-bus-hd-png.png",
+        "person":1,
+        "price":30
+    },
+    {
+        "id":4,
+        "name":"TRAIN",
+        "img":"https://www.pngitem.com/pimgs/m/42-425061_train-png-metro-train-png-transparent-png.png",
+        "person":1,
+        "price":25
+    }
+]

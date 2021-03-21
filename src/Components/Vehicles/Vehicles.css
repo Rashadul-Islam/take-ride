@@ -1,0 +1,12 @@
+.vehicles-img{
+    height: 200px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.link-style{
+    text-decoration: none;
+}
+.link-style:hover{
+    text-decoration: none;
+}
