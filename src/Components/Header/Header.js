@@ -25,7 +25,7 @@ const Header = () => {
                             <Link className="link-style" to="/blog">Blog</Link>
                         </li>
                         <li className="nav-item px-3">
-                            <a id="a-tag" href="https://facebook.com/rashadul5">Contact</a>
+                            <a id="a-tag" target="_blank" rel="noopener noreferrer" href="https://facebook.com/rashadul5">Contact</a>
                         </li>
                         <li className="nav-item px-3">
                             {
