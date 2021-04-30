@@ -1,5 +1,7 @@
 Project Name: "Take Ride"
 
+live-Site: [Link](https://take-ride.netlify.app/)
+
 Features of take ride:
 
 1. Several of vehicles are available  for ride.
@@ -12,6 +14,3 @@ Features of take ride:
 8. According to user input user can see some results.
 9. All the results handled by using fake data.
 10. Private route is used to prevent unauthorized access in booking page.
-
-
-live Site [Link](https://take-ride.netlify.app/)
