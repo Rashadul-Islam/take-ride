@@ -1,4 +1,4 @@
-Project Name: "Take Ride"
+<h1>Take Ride</h1>
 
 live-Site: [Link](https://take-ride.netlify.app/)
 
